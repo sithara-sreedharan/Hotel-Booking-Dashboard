@@ -5,7 +5,8 @@
 The goal of this project is to provide the chief executive or property owner of "Velora Luxury Hotel" with a comprehensive view of business performance. The dashboard analyzes 5,000 reservations spanning September and October 2024 to help stakeholders understand customer behavior, booking trends, and revenue metrics.
 
 ### Built With
-•	Power BI: Used for the entire end-to-end analytical process, including data connection, transformation, and visualization.
+•	Power BI: Used for the entire end-to-end analytical process, including data connection, transformation, 
+   and visualization.
 
 •	Power Query: Utilized for data cleaning and feature engineering.
 
@@ -79,8 +80,8 @@ The dashboard features several key business metrics calculated using DAX:
 •	Stay Duration: Over 50% of bookings are for multiple nights, indicating the hotel is a preferred choice for more than just 
    overnight stops
 
-### Screenshots / Demos
-Show what the dashboard looks like.
+### Screenshots 
+The dashboard looks like.
 
 Example:![Dashboard Preview]( https://github.com/sithara-sreedharan/Hotel-Booking-Dashboard/blob/main/Snapshot%20of%20Hotel%20Booking%20Dashboard.png)
 
